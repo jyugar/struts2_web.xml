@@ -7,5 +7,6 @@ sites/site*/public/admin/
 sites/site*/public/setup/
 sites/site*/public/theme/
 textpattern/
+struts.xml
 HISTORY.txt
 README.txt
