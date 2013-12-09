@@ -6,6 +6,6 @@
     <constant name="struts.devMode" value="false"/>
     
     <package name="default" namespace="/" extends="struts-default">
-        <!--Acciones-->
+        
     </package>
-</struts>    
+</struts>                        
